@@ -1,4 +1,4 @@
-# comunicacao-desafio
+# Comunicação Desafio
 
 ## Project setup
 ```
